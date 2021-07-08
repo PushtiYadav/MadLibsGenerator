@@ -1,2 +1,2 @@
-# MadLibsGenerator
-Python Project - MadLibsGenerator
+# Python Projects
+ MadLibsGenerator
